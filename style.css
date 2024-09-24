@@ -24,6 +24,7 @@
     display: flex;
     justify-content: space-between;
     padding-top: 30px;
+    padding-right: 25px;
 }#save{
     padding-left: 25vw;
 }#curtir{
@@ -38,5 +39,4 @@
 }#feed div{
     display: flex;
     align-items: center;
-    padding-right: 20px;
 }
