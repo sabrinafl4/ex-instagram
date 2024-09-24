@@ -22,6 +22,7 @@
     border-radius: 50%;
 }#feed{
     display: flex;
+    justify-content: space-between;
     padding-top: 30px;
 }#save{
     padding-left: 25vw;
@@ -32,4 +33,10 @@
 }#perfil{
     width: 40px;
     height: 40px;
+}#dada{
+    font-size: 20px;
+}#feed div{
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
 }
