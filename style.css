@@ -44,4 +44,9 @@
     height: 40px;
 }#perfil3{
     width: 40px;
-    height: 40px;}
+    height: 40px;
+}.recom{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
