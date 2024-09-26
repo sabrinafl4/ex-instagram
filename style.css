@@ -20,23 +20,28 @@
     width: 70px;
     height: 70px;
     border-radius: 50%;
-}#feed{
+}.feed{
     display: flex;
     justify-content: space-between;
     padding-top: 30px;
     padding-right: 25px;
-}#save{
+}.save{
     padding-left: 25vw;
-}#curtir{
+}.curtir{
     font-size: 30px;
-}#billie{
+}.billie{
     width: 35vw;
 }#perfil{
     width: 40px;
     height: 40px;
-}#dada{
-    font-size: 20px;
-}#feed div{
+}.dada{
+    font-size: 15px;
+}.feed div{
     display: flex;
     align-items: center;
-}
+}#perfil2{
+    width: 40px;
+    height: 40px;
+}#perfil3{
+    width: 40px;
+    height: 40px;}
