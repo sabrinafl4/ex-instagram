@@ -6,9 +6,10 @@
     color: white;
     background-color: black;
     display: flex;
+    justify-content: space-between;
     padding-top: 20px;
     padding-left: 10px;
-    gap: 350px;
+    gap: 35px;
 }header{
     display: flex;
     flex-direction: column;
@@ -16,6 +17,7 @@
     color: white;
     font-size: 138%;
     padding-top: 30px;
+    text-decoration: none;
 }.photo{
     width: 70px;
     height: 70px;
@@ -25,12 +27,12 @@
     justify-content: space-between;
     padding-top: 30px;
     padding-right: 25px;
-}.save{
-    padding-left: 25vw;
 }.curtir{
-    font-size: 30px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
 }.billie{
-    width: 35vw;
+    width: 100%;
 }#perfil{
     width: 40px;
     height: 40px;
@@ -49,4 +51,22 @@
     width: 60px;
     height: 60px;
     border-radius: 50%;
+}.recomendado{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}.link{
+    color: rgb(5, 153, 252);
+    font-size: 16px;
+    padding-bottom: 25px;
+}.historia{
+    background-image: linear-gradient(to top, #fc01d8, #ef131a, #9909f5, #f7b700);
+    width: 77px;
+    height: 77px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}#stories{
+    display: flex;
 }
