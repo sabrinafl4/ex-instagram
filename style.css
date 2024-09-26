@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -69,4 +71,7 @@
     justify-content: center;
 }#stories{
     display: flex;
+}h1{
+    font-family: "Caveat", cursive;
+    font-size: 50px;
 }
